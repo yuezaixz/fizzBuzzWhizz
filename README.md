@@ -55,6 +55,8 @@ class _const(object):
             self.__dict__[k] = v 
 
 const = _const()
+```
+
 #三个转换单词
 const.WORD1 = 'Fizz'
 const.WORD2 = 'Buzz'
