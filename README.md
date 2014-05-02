@@ -1,6 +1,7 @@
-fizzBuzzWhizz
+[fizzBuzzWhizz](https://github.com/yuezaixz/fizzBuzzWhizz)
 =============
 #概述
+项目github代码地址[https://github.com/yuezaixz/fizzBuzzWhizz]
 该项目是一个学习项目，题目是英国小学生练习除法的一个游戏，比如100名学生玩这个游戏。游戏的规则是：
 
 * 你首先说出三个不同的特殊数，要求必须是个位数，比如3、5、7。
