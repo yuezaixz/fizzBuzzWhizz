@@ -43,7 +43,8 @@ Buzz
 
 #常量配置
 为了增加项目的maintainable性，在这里进行配置可能需要修改的信息。
-```python const.py
+
+```
 # -*- coding:utf-8 -*-
 class ConstError(Exception): pass
 
@@ -55,7 +56,6 @@ class _const(object):
             self.__dict__[k] = v 
 
 const = _const()
-```
 
 #三个转换单词
 const.WORD1 = 'Fizz'
